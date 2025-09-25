@@ -3,6 +3,7 @@
  * https://developers.cloudflare.com/workers/wrangler/configuration/
  */
 {
+	"account_id": "648770119c6d03ac0fe868771cf5df1b",
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "frontend-developer-portfolio",
 	"main": "worker/index.ts",
